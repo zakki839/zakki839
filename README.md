@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am zakiya
+
+I am python full stack devolper as fresher
+
 <!--
 **zakki839/zakki839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
